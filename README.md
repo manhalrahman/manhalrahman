@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 - 👋 Hi, I’m @manhalrahman
 - 👀 I’m interested in in everything machine learning, data science, artificial intelligence, and python.
-- 🌱 I’m currently a pre-final year undergraduate at BITS Pilani.
 - 📫 Reach out [through Linkedin](https://www.linkedin.com/in/manhal-rahman-2993241a0/ "Manhal's Linkedin Profile")
  ![](https://hit.yhype.me/github/profile?user_id=43201586)
 
